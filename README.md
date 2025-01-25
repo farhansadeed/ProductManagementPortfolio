@@ -5,6 +5,8 @@ Welcome to the Product Management Portfolio! This repository showcases my skills
 About Me
 I am a Business Reporting Analyst and a part-time Product Manager with experience in developing, enhancing, and managing tools and processes for clients in various industries, including finance, tax, and audit. My work focuses on driving strategic initiatives, building effective workflows, and delivering solutions that add measurable value to the business.
 
+![PRD Wireframe](PRD Wireframe.jng)
+
 Contents of the Repository
 This repository contains a variety of resources designed to aid aspiring and experienced product managers:
 
