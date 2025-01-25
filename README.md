@@ -34,10 +34,12 @@ Planning Tools:
 
 Burndown Chart Examples: Tools for sprint and project progress tracking.
 Features and Forces: Frameworks for prioritizing features based on market forces.
+
+![Features Chart](FeatureCategories.png)
 Key Highlights
-End-to-End Product Lifecycle: Frameworks and tools that guide the entire product journey, from ideation to refinement and retirement.
-Data-Driven Decision-Making: Templates and dashboards to make informed product decisions based on analytics and feedback.
-Industry-Driven Insights: Resources tailored for B2B SaaS platforms, with applications in tax, audit, and consultancy domains.
+##End-to-End Product Lifecycle: Frameworks and tools that guide the entire product journey, from ideation to refinement and retirement.
+##Data-Driven Decision-Making: Templates and dashboards to make informed product decisions based on analytics and feedback.
+##Industry-Driven Insights: Resources tailored for B2B SaaS platforms, with applications in tax, audit, and consultancy domains.
 Collaboration-Focused: Emphasis on tools and processes that enhance cross-functional teamwork.
 
 How to Use This Repository
