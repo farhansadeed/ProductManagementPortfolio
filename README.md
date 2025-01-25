@@ -17,6 +17,7 @@ Product-Market Alignment Framework - Value Proposition Template: Tools to align 
 Case Studies:
 
 Occulus Rift Case Study: A detailed analysis of a real-world product development journey.
+![Metrics Dashboard Design](Metrics Dasboard Design.pdf)
 PRDs and Wireframes:
 
 PRD Productivity and Integration Enhancements: A sample PRD showcasing feature prioritization and user-centric design.
