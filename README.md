@@ -86,6 +86,9 @@ This Agile Board on JIRA Project Management Platform showcases the Kanban board 
   A structured method for identifying root causes of user behavior.
 
 ### Planning Tools
+![Project Management Timeline Epics](/Images/project-management-timeline-epics.png) 
+
+
 - **Burndown Chart Examples**:  
   Tools for sprint and project progress tracking.
 - **Features and Forces**:  
