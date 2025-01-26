@@ -30,7 +30,7 @@ I am a **Business Reporting Analyst** and a **part-time Product Manager** with e
 - **B2B Saas Platform Case Study**:  
   A detailed analysis of a real-world product development journey.
 
-![Metrics Dashboard Design](MetricsDasboardDesign.jpg)
+![Metrics Dashboard Design](/Images/MetricsDasboardDesign.jpg)
 
 ### User Personas
 - **B2B Saas Platform User Personas**:
