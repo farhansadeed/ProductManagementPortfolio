@@ -48,7 +48,14 @@ I am a **Business Reporting Analyst** and a **part-time Product Manager** with e
   A blueprint for creating data-driven dashboards for product insights.
 - **Net Promoter Score Worksheet**:  
   A tool for measuring customer satisfaction and loyalty.
+![User Personas](/Images/kanban-board-project-management-enhancements.jpg)
+This Agile Board on JIRA Project Management Platform showcases the Kanban board created for the Project Management Platform Enhancements. It visually represents the workflow, tracking tasks through the following stages:
 
+- Selected for Development: Tasks that are prioritized and ready to start.
+- In Progress: Tasks currently being worked on by the team.
+- Done: Completed tasks that have passed all review and testing phases
+
+  
 ### Surveys & Feedback
 - **User Feedback Survey**:  
   Templates for collecting meaningful user insights.
