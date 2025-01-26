@@ -32,6 +32,10 @@ I am a **Business Reporting Analyst** and a **part-time Product Manager** with e
 
 ![Metrics Dashboard Design](MetricsDasboardDesign.jpg)
 
+### User Personas
+- **B2B Saas Platform User Personas**:
+  
+
 ### PRDs and Wireframes
 - **PRD Productivity and Integration Enhancements**:  
   A sample PRD showcasing feature prioritization and user-centric design.
