@@ -34,6 +34,7 @@ I am a **Business Reporting Analyst** and a **part-time Product Manager** with e
 
 ### User Personas
 - **B2B Saas Platform User Personas**:
+![User Personas](UserPersona-B2BSaaS.jpg)
   
 
 ### PRDs and Wireframes
