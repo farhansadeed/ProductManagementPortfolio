@@ -47,6 +47,8 @@ I am a **Business Reporting Analyst** and a **part-time Product Manager** with e
   A step-by-step guide to managing the lifecycle of SaaS products.
 - **Product-Market Alignment Framework - Value Proposition Template**:  
   Tools to align user needs and business goals.
+![Project Management Platform Wireframe](/Images/project-management-platform-wireframe.jpg)
+
 
 ### Case Studies
 - **B2B Saas Platform Case Study**:  
