@@ -91,6 +91,7 @@ This Agile Board on JIRA Project Management Platform showcases the Kanban board 
 
 - **Burndown Chart Examples**:  
   Tools for sprint and project progress tracking.
+  ![Burndown Chart](/Images/Burndown-chart.png) 
 - **Features and Forces**:  
   Frameworks for prioritizing features based on market forces.
 
