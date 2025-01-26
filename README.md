@@ -7,6 +7,28 @@ A portfolio showcasing skills, projects, and tools in product management. Includ
 ## About Me
 I am a **Business Reporting Analyst** and a **part-time Product Manager** with experience in:
 - Developing, enhancing, and managing tools and processes.
+- Skills and Tools
+  - Analytics and Reporting
+    - Power BI
+    - Tableau
+    - Microsoft Excel (Advanced)
+  - Project and Product Management
+    - Jira
+    - Microsoft Project
+    - Trello
+  -  Collaboration and Productivity
+    - Confluence
+    - Slack
+    - Microsoft Teams
+-  Technical Knowledge
+    -  SQL
+    -  Python
+  - Data Visualization
+    - Frameworks
+    - Agile
+    - Scrum
+    - Kanban
+
 - Working with industries such as:
   - IT
   - Finance
