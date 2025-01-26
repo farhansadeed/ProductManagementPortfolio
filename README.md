@@ -34,7 +34,7 @@ I am a **Business Reporting Analyst** and a **part-time Product Manager** with e
 
 ### User Personas
 - **B2B Saas Platform User Personas**:
-![User Personas](UserPersona-B2BSaaS.jpg)
+![User Personas](/Images/UserPersona-B2BSaaS.jpg)
   
 
 ### PRDs and Wireframes
@@ -61,7 +61,7 @@ I am a **Business Reporting Analyst** and a **part-time Product Manager** with e
 - **Features and Forces**:  
   Frameworks for prioritizing features based on market forces.
 
-![Features Chart](FeatureCategories.png)
+![Features Chart](/Images/FeatureCategories.png)
 
 ---
 
